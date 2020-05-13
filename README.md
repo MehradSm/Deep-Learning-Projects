@@ -1,4 +1,4 @@
-# Deep Learning Projects
+## Deep Learning Projects
 
 Here I put some interesting projects/assignments from my "Deep Learning" course. 
 
